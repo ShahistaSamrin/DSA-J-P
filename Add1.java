@@ -1,5 +1,5 @@
 /* INPUT 
-10 20
+10,20
 OUTPUT
 First Number:10
 Second Number:20 */
